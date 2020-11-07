@@ -14,11 +14,11 @@ author: Mingsheng Qi
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Resume: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - R for data Science: "https://r4ds.had.co.nz/index.html"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's blog: "https://tonyqms.blogspot.com/"
 
 # --- Logo --- #
 
