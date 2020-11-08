@@ -36,10 +36,10 @@ Frequent user and proficient mastery of general software, including Microsoft Of
 Self-learner of JAVA and Python programming.  
 
 ### PROFESSIONAL EXPERIENCES   
-| Research Scientist| Donald Danforth Plant Science Center| 2018/08-present | 
-| Postdoc & Assistant Scientist I| Iowa State University| 2011/08-2018/08 | 
-| Postdoctoral Associate| University of Illinois at Urbana & Champaig| 2009/02-2011/08 |  
-| Visiting scholar| Lehman College, City University of New York| 005/12-2006/06 | 
+| Research Scientist | Donald Danforth Plant Science Center | 2018/08-present | 
+| Postdoc & Assistant Scientist I | Iowa State University | 2011/08-2018/08 | 
+| Postdoctoral Associate | University of Illinois at Urbana & Champaig | 2009/02-2011/08 |  
+| Visiting scholar | Lehman College, City University of New York | 005/12-2006/06 | 
 
 •	Sorghum-Microbiome interaction (Danforth Center)  
 Led the project to identify the beneficial rhizosphere bacteria which protect and promote the sorghum plant growth under the drought stress, using high throughput plant phenotyping facility and next-generation sequencing. Discovered the mechanisms behind the phenotypes, using genomic, physiological and biochemical approaches. 
@@ -53,8 +53,8 @@ C)	Functionally characterized responses mediated by the soybean rust resistance 
 Led a project to sequence the genome of Peudomonas syringae pv. glycinea strains, which cause bacterial blight on soybean. Conducted in silico subtractive hybridization-based comparative genomic analyses with 9 sequenced phytopathogenic pseudomonads, identified dozens of specific islands (SIs), and revealed the relationship between the SIs and the host specificity of 10 pseudomonads.  
 
 ### EDUCATION  
-| Ph.D.| Genetics| Chinese Academy of Sciences, China, 2008|  
-| B.S.| Microbiology| Nanjing Normal University, China, 2003|
+| Ph.D. | Genetics | Chinese Academy of Sciences, China, 2008 |  
+| B.S. | Microbiology | Nanjing Normal University, China, 2003 |
 
 ### OTHER INFORMATION  
 •	US Permanent Resident  
