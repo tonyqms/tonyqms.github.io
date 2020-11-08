@@ -53,7 +53,7 @@ C)	Functionally characterized responses mediated by the soybean rust resistance 
 **Postdoctoral Associate**  
 University of Illinois at Urbana & Champaign  
 2009/02-2011/08  
-Genome Sequencing and Comparative Genomics   
+**Genome Sequencing and Comparative Genomics**   
 Led a project to sequence the genome of Peudomonas syringae pv. glycinea strains, which cause bacterial blight on soybean. Conducted in silico subtractive hybridization-based comparative genomic analyses with 9 sequenced phytopathogenic pseudomonads, identified dozens of specific islands (SIs), and revealed the relationship between the SIs and the host specificity of 10 pseudomonads.  
 
 ### EDUCATION  
@@ -63,7 +63,7 @@ Chinese Academy of Sciences, China, 2008
 
 **B.S.**  
 Microbiology  
-Nanjing Normal University, China, 2003 |  
+Nanjing Normal University, China, 2003   
 
 ### OTHER INFORMATION  
 **US Permanent Resident**  
