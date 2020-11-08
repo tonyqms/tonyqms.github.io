@@ -11,7 +11,7 @@ Email: [tonyqms@gmail.com](mailto:tonyqms@gmail.com)
 1130 Olivaire LN, St. Louis, MO 63132  
 
 ### OBJECTIVE  
-To obtain a position as a Microbiome Scientist that utilizes my research experiences in Microbiome (2+ years), Plant-Microbe Interactions (7+ yeasrs), Molecular Biology and Genetics (10+ years), my impeccable written and verbal communication skills and my PhD degree in Genetics.  
+To obtain a position as a Microbiology Scientist that utilizes my research experiences in Microbiome (2+ years), Plant-Microbe Interactions (7+ yeasrs), Molecular Biology and Genetics (10+ years), my impeccable written and verbal communication skills and my PhD degree in Genetics.  
 
 ### TRANSFERRABLE SKILLS  
 #### Next Generation Sequencing and omics  
