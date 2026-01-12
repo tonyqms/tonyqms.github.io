@@ -4,98 +4,187 @@ title: Resume
 subtitle: 
 ---
 
-### **Mingsheng Qi**, Ph.D.		
-Research Scientist  
-Cell: 217-819-6637  
-Email: [tonyqms@gmail.com](mailto:tonyqms@gmail.com)    
-1130 Olivaire LN, St. Louis, MO 63132  
+### **Mingsheng Qi, Ph.D.**
+**Bioinformatics & NGS Solutions Scientist**
 
-### OBJECTIVE  
-To obtain a position as a Microbiology Scientist that utilizes my research experiences in Microbiome (2+ years), Plant-Microbe Interactions (7+ yeasrs), Molecular Biology and Genetics (10+ years), my impeccable written and verbal communication skills and my PhD degree in Genetics.  
+St. Louis, MO 63132 | 217-819-6637 | tonyqms@gmail.com
 
-### TRANSFERRABLE SKILLS  
-#### Next Generation Sequencing and omics  
-Microbiome analyses using amplicon sequencing, mega-genomics; RNA-seq using Illumina HiSeq and differential gene expression analyses; Genome sequencing using 454 sequencing and genome visualization; Cross omics analyses combining genomics, transcriptomics, metabolomics, and hormone and isotope data;
- 
-#### High throughput techniques  
-96-well yeast two hybrid and 384-well real-time PCR; Plant phenotyping assay handling 1140 plants at the same time; 384-droplet yeast two hybrid using liquid handler; 
+---
 
-#### Plant-Microbe interactions  
- Inoculation, infiltration and injection, disease phenotyping in small and large scales, innate and effector-triggered immune responses analyses;
- 
-#### Molecular Genetics, Cell Biology and Biochemistry  
-Molecular cloning, gene expression analyses, protein-protein interactions including yeast two hybrid, BiFC and CoIP, protein expression and purification, HPLC, LC/MS, enzyme engineering, fluorescence imaging, protoplast preparation and transfection, histochemical staining assays;
+#### PROFESSIONAL SUMMARY
 
-#### Genome Editing using the CRISPR-Cas9 system in plants
+Computational biologist and NGS platform expert with 11+ years of hands-on experience developing, optimizing, and implementing Next-Generation Sequencing solutions across commercial, research, and product development environments. Proven ability to bridge science and commerce through customer-centric technical support, rigorous bioinformatics analysis, and cross-functional collaboration. Deep expertise in Illumina and Complete Genomics NGS workflows, target enrichment, GBS, RNA-seq, and microbiome applications. Experienced in translating complex technical challenges into actionable insights, building scalable data pipelines on AWS cloud platforms, and creating high-impact scientific communications. Strong track record managing diverse teams, driving product adoption, and enabling customer success through technical excellence and clear communication.
 
-#### IT Skills  
-Data analyses;  
-Statistics and visualization using Excel, Adobe Illustrator and R packages;  
-Image analyses using FIJI;  
-Frequent user and proficient mastery of general software, including Microsoft Office, Adobe Photoshop, Endnote and Mendeley;  
-Self-learner of JAVA and Python programming.  
+---
 
-### PROFESSIONAL EXPERIENCES   
-**Research Scientist**  
-Donald Danforth Plant Science Center  
-2018/08-present    
-**Sorghum-Microbiome interaction**  
-Led the project to identify the beneficial rhizosphere bacteria which protect and promote the sorghum plant growth under the drought stress, using high throughput plant phenotyping facility and next-generation sequencing. Discovered the mechanisms behind the phenotypes, using genomic, physiological and biochemical approaches.  
+#### CORE COMPETENCIES
 
-**Postdoc & Assistant Scientist I**  
-Iowa State University  
-2011/08-2018/08    
-**Molecular Plant –Pathogen Interaction**   
-A)	Creatively established bacterial screening systems for phenotypic analyses of pathogenic fungal proteins and discovered several novel secreted candidate effector proteins related to fungal pathogenesis.  
-B)	Characterized the host interacting proteins of some important virulence effectors from soybean rust pathogen, Phakopsora pachyrhizi, including a cysteine-rich effector and a fungal protease.  
-C)	Functionally characterized responses mediated by the soybean rust resistance gene, Rpp1, using virus-induced gene silencing and transcriptome analyses.  
+**NGS Applications & Workflow Development**
+- End-to-end NGS workflows: library preparation (target enrichment, amplicon, RNA-seq, GBS), sequencing (Illumina and Complete Genomics platforms), and data analysis
+- Hands-on platform operation & optimization: troubleshooting, protocol development, QC validation
+- Experimental design, assay development, and high-throughput process optimization
+- Data quality metrics: coverage uniformity, off-target rates, cost-per-data-point analysis
 
-**Postdoctoral Associate**  
-University of Illinois at Urbana & Champaign  
-2009/02-2011/08  
-**Genome Sequencing and Comparative Genomics**   
-Led a project to sequence the genome of Peudomonas syringae pv. glycinea strains, which cause bacterial blight on soybean. Conducted in silico subtractive hybridization-based comparative genomic analyses with 9 sequenced phytopathogenic pseudomonads, identified dozens of specific islands (SIs), and revealed the relationship between the SIs and the host specificity of 10 pseudomonads.  
+**Bioinformatics & Data Science**
+- NGS data analysis pipeline development: alignment, variant calling, quality control, downstream interpretation
+- Bioinformatics toolset: **R, bash, Python** for data analysis and automation
+- Specialized tools: BWA, GATK, samtools, bcftools, bedtools, Picard, IGV, plink, GPU-accelerated Parabricks suite
+- Visualization & presentation: RShiny, Python Streamlit and Plotly for interactive reports and data dashboard
+- Cloud computing: AWS (EC2, S3, SageMaker, Docker) for scalable analysis and pipeline deployment
+- AI/ML analysis: Genomic Prediction, GWAS, microbiome ecology metrics, quality control frameworks
 
-### EDUCATION  
-**Ph.D.**  
-Genetics  
-Chinese Academy of Sciences, China, 2008 
+**Customer-Facing Technical Support**
+- Pre-sales technical engagement: requirements gathering, use case development, proof-of-concept design
+- Post-sales support: troubleshooting, technical consulting, data interpretation assistance
+- Scientific communication: explaining complex NGS/bioinformatics concepts to diverse audiences
+- Training delivery: customer workshops, hands-on training on NGS workflows and data analysis platforms
 
-**B.S.**  
-Microbiology  
-Nanjing Normal University, China, 2003   
+**Product Development & Cross-Functional Leadership**
+- Workflow design and validation for high-throughput production environments
+- Requirements translation: converting customer/business needs into technical specifications
+- Collaboration with R&D, product management, engineering, and data teams
+- Data-driven quality management systems (QMS) and LIMS integration
+- Automation platform experience: Biomek, Agilent Bravo, Tecan, Formulatrix liquid handlers
 
-### OTHER INFORMATION  
-**US Permanent Resident**  
+**Scientific Communication & Thought Leadership**
+- Author of 15+ peer-reviewed publications in high-impact journals (ISME Journal IF 10.3, PLoS Pathogens IF 9.1)
+- White paper, technical documentation, case study, and application note authoring
+- Conference presentations and scientific storytelling
+- Key Opinion Leader (KOL) engagement and emerging trend analysis
 
-### SELECTED PUBLICATIONS  
-* **Mingsheng Qi** and et al. 2019. Candidate effectors from _Uromyces appendiculatus_, the causal agent of rust on common bean, can be discriminated based on suppression of immune responses. Front. Plant Sci. [DOI: 10.3389/fpls.2019.01182](https://www.frontiersin.org/articles/10.3389/fpls.2019.01182/full). IF: 4.298
-* **Qi, Mingsheng**, and et al. 2018. QQS orphan gene and its interactor NF-YC4 reduce susceptibility to pathogens and pests. Plant Biotechnology Journal. [DOI:10.1111/pbi.12961](https://onlinelibrary.wiley.com/doi/full/10.1111/pbi.12961). IF: 7.443
-* **Mingsheng Qi**, and et al. 2018. Suppression or activation of immune responses by predicted secreted proteins of the soybean rust pathogen _Phakopsora pachyrhizi_. Mol. Plant Microbe Interact. 31: 163-174. [DOI:10.1094/MPMI-07-17-0173-FI](https://apsjournals.apsnet.org/doi/10.1094/MPMI-07-17-0173-FI). IF: 4.455
-* **Mingsheng Qi**, and et al. 2016. A small cysteine-rich protein from the Asian soybean rust fungus, _Phakopsora pachyrhizi_, suppresses plant immunity. PLoS Pathog. 12: e1005827. [DOI:10.1371/journal.ppat.1005827](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005827). IF: 9.127 
-* Steven A Whitham, **Mingsheng Qi**, Roger W. Innes, Wenbo Ma, Valéria Lopes-Caitar, and Tarek Hewezi. 2016. Molecular Soybean-Pathogen Interactions. Annu. Rev. Phytopathol. 54:19.1–19.26. [DOI:10.1146/annurev-phyto-080615-100156](https://www.annualreviews.org/doi/full/10.1146/annurev-phyto-080615-100156). IF: 11.212
-* Jason B Noon, **Mingsheng Qi**, Danielle N. Sill, Usha Muppirala, Sebastian Eves-van den Akker, Thomas R. Maier, Drena Dobbs, Melissa G. Mitchum, Tarek Hewezi, Thomas J. Baum. 2016. A Plasmodium‐like virulence effector of the soybean cyst nematode suppresses plant innate immunity. New Phytologist. 212: 444–460. [DOI:10.1111/nph.14047](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.14047). IF: 7.210
-* **Mingsheng Qi**, Dongping Wang, Carl A. Bradley, Youfu Zhao. 2011. Genome sequence analyses of _Pseudomonas savastanoi_ pv. _glycinea_ and subtractive hybridization-based comparative genomics with nine pseudomonads. PLoS ONE. 6: e16451. [DOI:10.1371/journal.pone.0016451](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016451). IF: 4.351
-* **Mingsheng Qi**,  Feng-Jie Sun, Gustavo Caetano-Anollés, Youfu Zhao. 2010. Comparative genomic and phylogenetic analyses reveal the evolution of the core Two-Component Signal Transduction systems in Enterobacteria. J Mol Evol. 70: 167-180. [DOI:10.1007/s00239-009-9318-2](https://link.springer.com/article/10.1007%2Fs00239-009-9318-2). IF: 2.762  
-[Full publication list](https://scholar.google.com/citations?user=qEQPHFwAAAAJ&hl=en)  
+---
 
-### PROFESSIONAL REFERENCES  
-**Chair & Prof. Thomas J. Baum**  
-Department of Plant Pathology and Microbiology  
-Iowa State University  
-Address: 1344 Advanced Teaching & Research Bldg., Ames, IA 50011  
-Tel: +1-515-294-5420  
-Email: [tbaum@iastate.edu](mailto:tbaum@iastate.edu)   
+#### PROFESSIONAL EXPERIENCE
 
-**Prof. Steve A. Whitham**  
-Department of Plant Pathology and Microbiology  
-Iowa State University  
-Address: 4203 Advanced Teaching & Research Bldg., Ames, IA 50011  
-Tel: +1-515-294-4952  
-Email: [swhitham@iastate.edu](swhitham@iastate.edu) 
+**Bioinformatics Scientist** | Solis Genomics (Sequencing Services & Analysis) | Jun 2024-Jan 2026
+**Customer-Facing NGS Support & Technical Consulting**
+- Provided pre- and post-sales technical support for commercial NGS projects, translating customer research goals into optimized sequencing workflows
+- Designed custom NGS panels and protocols for target enrichment applications in collaboration with sales and product teams
+- Performed comprehensive troubleshooting of NGS datasets (library prep quality, alignment metrics, variant calling accuracy) and delivered technical reports and recommendations
+- Supported proof-of-concept (PoC) analyses and client presentations demonstrating real-world value of NGS solutions
+- Collaborated with customers, field application scientists, and internal teams to capture requirements and drive product improvements
 
-**Prof. Youfu Zhao**  
-Department of Crop Sciences University of Illinois  
-Address: 288A Edward R. Madigan Laboratory, 1201 W. Gregory Dr., Urbana, IL 61801  
-Tel: +1-217-265-9822  
-Email: [zhao888@illinois.edu](zhao888@illinois.edu)
+**Bioinformatics Pipeline & Data Analysis**
+- Developed and optimized bioinformatics pipelines for production NGS analysis inlcuding genomic alignment, variant calling, *de novo* genome assembly, imputation reference panel building, skim sequencing imputation
+- Achieved 95%+ first-pass QC success across 100,000+ commercial sequencing samples
+- Performed data visualization and quality assessment (coverage uniformity, alignment rates, variant annotation)
+- Generated technical documentation and standard operating procedures (SOPs) for NGS data analysis workflows
+
+---
+**Scientist II & Scientific Manager** | Benson Hill Inc. (Agribiotech Product Development) | July 2021–June 2024
+
+**Genotyping Platform Development & Product Commercialization**
+- **Led cross-functional initiatives** to design, validate, and deploy three NGS-based genotyping platforms: **amplicon sequencing**, **Genotyping-By-Sequencing (GBS)**, and **probe-based target enrichment sequencing**
+- **Instrument integration & optimization**: Onboarded and established standard operating procedures for Illumina MiSeq and NextSeq systems; optimized protocols for maximum data quality, throughput, and cost-efficiency
+- **Data strategy & KPI development**: Established comprehensive quality control framework with actionable metrics (coverage uniformity, off-target reads, cost per genotype); enabled data-driven decision-making
+- **Scalable data infrastructure**: Directed development of automated bioinformatics pipelines in collaboration with software and data engineers (AWS EC2, Docker containerization, R/Python/bash workflows, SageMaker)
+- **High-volume production**: Managed NGS workflow processing 100,000+ samples/year from library preparation through quality assurance and data delivery; identified and resolved technical bottlenecks
+- **Cross-functional collaboration**: Partnered with breeding, gene editing, and product teams to translate NGS outputs into actionable insights; presented findings to internal stakeholders and external partners
+- **Team leadership**: Managed two individuals; established personalized development plans; elevated team bioinformatics competency through hands-on mentoring and training
+
+**Commercial Impact**
+- Enabled successful gene editing and breeding pipeline deployment through reliable, scalable NGS genotyping
+- Reduced data turnaround time from 18 days to 10 days while maintaining 93%+ data quality
+
+---
+
+**Research Scientist** | Donald Danforth Plant Science Center | August 2018–July 2021
+
+**Microbiome Analysis & NGS Application Development**
+- Led multi-scale microbiome project identifying beneficial and detrimental bacteria impacting sorghum stress responses using **amplicon sequencing**, advanced statistical ecology metrics, and bioinformatics analysis
+- Performed comprehensive NGS data analysis (16S rRNA amplicon processing, comparative genomics, ecological analysis)
+- Integrated high-throughput plant phenotyping data with microbiome datasets to identify correlations and biomarkers
+- **Published in The ISME Journal** (IF 10.3): "Identification of beneficial and detrimental bacteria impacting sorghum responses to drought using multi-scale and multi-system microbiome comparisons" (2022)
+- Collaborated with plant scientists, phenotyping teams, and field researchers to inform experimental design and interpretation
+
+---
+
+**Postdoctoral Associate & Assistant Scientist I** | Iowa State University | August 2011–August 2018
+
+**Molecular Plant-Pathogen Genomics & Bioinformatics**
+- Established innovative bacterial screening systems for phenotypic characterization of fungal proteins; discovered novel secreted effector proteins related to fungal virulence
+- Conducted genome sequencing projects and comparative genomics analysis to identify molecular mechanisms of pathogenesis
+- Developed bioinformatics workflows for NGS data processing and interpretation
+- **Published 4 peer-reviewed articles** on plant-microbe interactions and genomics in high-impact journals
+- **Mentored and managed 10+ individuals** including PhD students, undergraduate researchers, high school educators, and international visiting scholars; established training protocols and career development plans
+
+---
+
+**Postdoctoral Associate** | University of Illinois at Urbana-Champaign | February 2009–August 2011
+
+**Genome Sequencing & Comparative Genomics**
+- Coordinated whole genome sequencing projects and performed comparative genomics analysis
+- Developed bioinformatics pipelines for large-scale sequence data processing and interpretation
+- Contributed to peer-reviewed publications and scientific collaboration
+
+---
+
+#### EDUCATION
+
+**Ph.D. in Genetics** | Chinese Academy of Sciences, Institute of Genetics and Developmental Biology, Beijing, China | 2008
+
+**B.S. in Microbiology** | Nanjing Normal University, China | 2003
+
+---
+
+#### PEER-REVIEWED PUBLICATIONS & SCIENTIFIC IMPACT
+
+**Published Works** (15+ publications, 1,200+ citations)  
+Full publication list and impact metrics: https://scholar.google.com/citations?user=qEQPHFwAAAAJ
+
+**Selected High-Impact Publications**:
+
+- **Qi, M.** et al. (2022). Identification of beneficial and detrimental bacteria impacting sorghum responses to drought using multi-scale and multi-system microbiome comparisons. *The ISME Journal*, 16: 2197-2210. **IF: 10.3**. DOI: 10.1038/s41396-022-01245-4
+
+- **Qi, M.** et al. (2019). Candidate effectors from *Uromyces appendiculatus* can be discriminated based on suppression of immune responses. *Frontiers in Plant Science*, 10: 1182. **IF: 4.298**. DOI: 10.3389/fpls.2019.01182
+
+- **Qi, M.** et al. (2018). Suppression or activation of immune responses by predicted secreted proteins of *Phakopsora pachyrhizi*. *Molecular Plant-Microbe Interactions*, 31: 163–174. **IF: 4.455**. DOI: 10.1094/MPMI-08-17-0201-R
+
+- **Qi, M.** et al. (2018). QQS orphan gene and its interactor NF-YC4 reduce susceptibility to pathogens and pests. *Plant Biotechnology Journal*, 16: 1612-1624. **IF: 7.443**. DOI: 10.1111/pbi.12961
+
+- **Qi, M.** et al. (2016). A small cysteine-rich protein from *Phakopsora pachyrhizi* suppresses plant immunity. *PLoS Pathogens*, 12(9): e1005827. **IF: 9.127**. DOI: 10.1371/journal.ppat.1005827
+
+---
+
+#### TECHNICAL SKILLS & PROFICIENCIES
+
+**Programming & Bioinformatics**
+- **Languages**: R, bash scripting, Python
+- **NGS Analysis & Genomics Tools**: BWA, GATK, samtools, bedtools, Picard, IGV, UCSC Genome Browser
+- **Data Visualization & Reporting**: ggplot2, matplotlib, Jupyter notebooks, MultiQC, interactive dashboards
+- **Cloud & Automation**: AWS (EC2, S3, SageMaker), Docker containerization, workflow automation
+- **IDEs & Development Tools**: RStudio, Visual Studio Code, Git version control
+
+**Laboratory & Instrumentation**
+- **NGS Platforms**: Illumina, Complete Genomics sequencers, full operational proficiency, troubleshooting, protocol optimization
+- **Sample Preparation**: Library construction (target enrichment, amplicon, GBS, RNA-seq), DNA purification (SPRI), quantification (Qubit), quality assessment (BioAnalyzer)
+- **Automation**: Biomek i7, Agilent Bravo, Tecan Freedom Evo, Formulatrix Tempest liquid handling robots
+- **Molecular Biology**: PCR/qPCR optimization, DNA/RNA extraction, gel electrophoresis, fragment analysis
+- **High-Throughput Techniques**: Liquid handling protocols, multi-well plate optimization, assay validation
+
+**Data Management & Compliance**
+- LIMS (Laboratory Information Management Systems) integration and data workflows
+- Quality Management Systems (QMS) and Standard Operating Procedure (SOP) documentation
+- Data quality frameworks and regulatory compliance familiarity
+- Project tracking, timeline management, and resource allocation
+
+**Software & Platforms**
+- Microsoft Office Suite (Word, Excel, PowerPoint), Google Workspace
+- Scientific communication and visualization tools
+- Remote collaboration platforms and tools
+
+---
+
+#### PROFESSIONAL ATTRIBUTES & ADDITIONAL INFORMATION
+
+- **U.S. Citizen**: no visa sponsorship required
+- **Location**: St. Louis, Missouri, remote-friendly, flexible to travel (up to 15%) for customer meetings and conferences
+- **Work Style**: Entrepreneurial mindset with bias for action and clarity; collaborative across cross-functional and geographically distributed teams; self-motivated and detail-oriented
+- **Continuous Learning**: Committed to staying current with NGS advancements, bioinformatics tools, and industry best practices; active participant in scientific and professional associations
+- **Global Collaboration**: Proven track record working with diverse, international teams across academia, biotech, and commercial environments
+
+<!--
+## PROFESSIONAL SUMMARY (ALTERNATE - CONCISE VERSION for ATS)
+
+PhD-trained bioinformatics scientist with 11+ years of hands-on NGS platform leadership, product development, and customer-centric technical support. Expert in Illumina NGS workflows (MiSeq, NextSeq), target enrichment, GBS, RNA-seq, and microbiome applications. Proficient in R, Python, bash, and NGS analysis tools (BWA, GATK, SAMtools, bedtools, IGV). Experienced in building scalable bioinformatics pipelines on AWS, translating customer requirements into technical solutions, and delivering high-impact scientific communications. Strong track record leading cross-functional teams, enabling customer success through troubleshooting and technical guidance, and publishing in high-impact journals. Proven ability to combine hands-on wet-lab expertise with computational analysis and commercial acumen.
+-->
