@@ -7,7 +7,7 @@ subtitle:
 ### **Mingsheng Qi, Ph.D.**
 **Bioinformatics & NGS Solutions Scientist**
 
-St. Louis, MO 63132 | 217-819-6637 | tonyqms@gmail.com
+* St. Louis, MO 63132 * 217-819-6637 * tonyqms@gmail.com
 
 ---
 
@@ -56,7 +56,7 @@ Computational biologist and NGS platform expert with 11+ years of hands-on exper
 
 #### PROFESSIONAL EXPERIENCE
 
-**Bioinformatics Scientist** | Solis Genomics (Sequencing Services & Analysis) | Jun 2024-Jan 2026
+**Bioinformatics Scientist** * Solis Genomics (Sequencing Services & Analysis) * Jun 2024-Jan 2026
 **Customer-Facing NGS Support & Technical Consulting**
 - Provided pre- and post-sales technical support for commercial NGS projects, translating customer research goals into optimized sequencing workflows
 - Designed custom NGS panels and protocols for target enrichment applications in collaboration with sales and product teams
@@ -71,7 +71,7 @@ Computational biologist and NGS platform expert with 11+ years of hands-on exper
 - Generated technical documentation and standard operating procedures (SOPs) for NGS data analysis workflows
 
 ---
-**Scientist II & Scientific Manager** | Benson Hill Inc. (Agribiotech Product Development) | July 2021–June 2024
+**Scientist II & Scientific Manager** * Benson Hill Inc. (Agribiotech Product Development) * July 2021–June 2024
 
 **Genotyping Platform Development & Product Commercialization**
 - **Led cross-functional initiatives** to design, validate, and deploy three NGS-based genotyping platforms: **amplicon sequencing**, **Genotyping-By-Sequencing (GBS)**, and **probe-based target enrichment sequencing**
@@ -88,7 +88,7 @@ Computational biologist and NGS platform expert with 11+ years of hands-on exper
 
 ---
 
-**Research Scientist** | Donald Danforth Plant Science Center | August 2018–July 2021
+**Research Scientist** * Donald Danforth Plant Science Center * August 2018–July 2021
 
 **Microbiome Analysis & NGS Application Development**
 - Led multi-scale microbiome project identifying beneficial and detrimental bacteria impacting sorghum stress responses using **amplicon sequencing**, advanced statistical ecology metrics, and bioinformatics analysis
@@ -99,7 +99,7 @@ Computational biologist and NGS platform expert with 11+ years of hands-on exper
 
 ---
 
-**Postdoctoral Associate & Assistant Scientist I** | Iowa State University | August 2011–August 2018
+**Postdoctoral Associate & Assistant Scientist I** * Iowa State University * August 2011–August 2018
 
 **Molecular Plant-Pathogen Genomics & Bioinformatics**
 - Established innovative bacterial screening systems for phenotypic characterization of fungal proteins; discovered novel secreted effector proteins related to fungal virulence
@@ -110,7 +110,7 @@ Computational biologist and NGS platform expert with 11+ years of hands-on exper
 
 ---
 
-**Postdoctoral Associate** | University of Illinois at Urbana-Champaign | February 2009–August 2011
+**Postdoctoral Associate** * University of Illinois at Urbana-Champaign * February 2009–August 2011
 
 **Genome Sequencing & Comparative Genomics**
 - Coordinated whole genome sequencing projects and performed comparative genomics analysis
